@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/calctask/static/css/main.25340798.css",
-    "main.js": "/calctask/static/js/main.16ab8228.js",
+    "main.css": "/calctask/static/css/main.a8ed4d04.css",
+    "main.js": "/calctask/static/js/main.4ab1917a.js",
     "index.html": "/calctask/index.html",
-    "main.25340798.css.map": "/calctask/static/css/main.25340798.css.map",
-    "main.16ab8228.js.map": "/calctask/static/js/main.16ab8228.js.map"
+    "main.a8ed4d04.css.map": "/calctask/static/css/main.a8ed4d04.css.map",
+    "main.4ab1917a.js.map": "/calctask/static/js/main.4ab1917a.js.map"
   },
   "entrypoints": [
-    "static/css/main.25340798.css",
-    "static/js/main.16ab8228.js"
+    "static/css/main.a8ed4d04.css",
+    "static/js/main.4ab1917a.js"
   ]
 }
