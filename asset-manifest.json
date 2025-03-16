@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maksimshirant/Calculator.git/static/css/main.25340798.css",
+    "main.js": "/maksimshirant/Calculator.git/static/js/main.16ab8228.js",
+    "index.html": "/maksimshirant/Calculator.git/index.html",
+    "main.25340798.css.map": "/maksimshirant/Calculator.git/static/css/main.25340798.css.map",
+    "main.16ab8228.js.map": "/maksimshirant/Calculator.git/static/js/main.16ab8228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25340798.css",
+    "static/js/main.16ab8228.js"
+  ]
+}
